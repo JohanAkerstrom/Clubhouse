@@ -1,5 +1,3 @@
-## Lite anteckningar från clubhouse
-
 ### Kritik mot epigenetik
 Lite material från neurovetenskapsmannen Kevin Mitchell.
 - [The Trouble with Epigenetics (Part 1)](http://www.wiringthebrain.com/2013/01/the-trouble-with-epigenetics-part-1.html) 
